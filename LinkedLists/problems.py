@@ -42,7 +42,7 @@ class LinkedList:
 		#should work for 0<=i<(length of list)
 
 	def get(self,i):
-		#return the value stored at index i. Return None if i>(length of list)
+		#return the value stored at index i. Return None if i>=(length of list)
 
 	def extend(self,other_list):
 		#append all of the contents of other list to the end of the list in order
