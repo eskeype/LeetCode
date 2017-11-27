@@ -8,7 +8,7 @@
 class ListNode:
 	def __init__(self,val):
 		self.val = val
-		self.next = next
+		self.nxt = None 
 
 class LinkedList:
 	def __init__(self):
